@@ -1,0 +1,17 @@
+{
+  "name": "be-the-hero",
+  "version": "1.0.0",
+  "description": "Aplicativo desenvolvido durante a semana Omnistack 11",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "gerjunior",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
