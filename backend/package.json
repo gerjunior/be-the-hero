@@ -4,7 +4,7 @@
   "description": "Aplicativo desenvolvido durante a semana Omnistack 11",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "author": "gerjunior",
   "license": "ISC",
@@ -12,6 +12,9 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
   }
 }
