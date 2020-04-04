@@ -1,4 +1,4 @@
- ![logo](./extra_content/logo.png"Logo be-the-hero") 
+ ![logo](./extra_content/logo.png "Logo be-the-hero") 
 
 Este projeto foi desenvolvido em uma única semana no decorrer da **Semana Omnistack #11** da **[Rocketseat](https://rocketseat.com.br/)** 🚀.
 
